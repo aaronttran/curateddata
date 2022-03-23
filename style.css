@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.randomizerButton {
+  padding: 20px;
+  background-color: #bac8ff;
+}
+
+.row {
+  margin: 10px;
+  display: flex;
+}
+
+.column {
+  margin: 10px;
+  flex: 50%;
+}
